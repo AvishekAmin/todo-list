@@ -107,3 +107,18 @@ body {
   font-style: italic;
   margin-top: 15px;
 }
+
+.task-text {
+  flex: 1;
+}
+
+.completed {
+  text-decoration: line-through;
+  opacity: 0.6;
+}
+
+.counter {
+  color: gray;
+  font-style: italic;
+  margin-bottom: 15px;
+}
