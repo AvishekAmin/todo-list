@@ -1,2 +1,14 @@
 ### 📝 Todo list: 
 A responsive web application with modern task management built using React and Redux. It enables users to add, edit, complete, and delete tasks featuring a clean, responsive UI while leveraging centralized state management for predictable and scalable application behavior.
+
+## Live Demo
+
+https://your-netlify-url.netlify.app
+
+## Tech Stack
+
+- React.js
+- Redux Toolkit
+- JavaScript
+- HTML5
+- CSS3
