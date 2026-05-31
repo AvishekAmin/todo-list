@@ -3,7 +3,7 @@ A responsive web application with modern task management built using React and R
 
 ## Live Demo
 
-https://your-netlify-url.netlify.app
+https://redux-todo-avishek.netlify.app
 
 ## Tech Stack
 
