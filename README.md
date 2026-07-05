@@ -33,8 +33,7 @@ https://redux-todo-avishek.netlify.app
 ## Tech Stack
 
 * React.js
-* Redux Toolkit
-* React Redux
+* Redux.js
 * JavaScript (ES6+)
 * HTML5
 * CSS3
